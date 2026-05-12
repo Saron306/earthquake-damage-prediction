@@ -87,3 +87,8 @@ The tuned XGBoost classifier achieved the strongest performance among all models
 The results demonstrate that ensemble boosting methods significantly improved earthquake damage prediction performance compared to simpler baseline models.
 
 ---
+Note: The original dataset files were too large to upload directly to GitHub. 
+The project uses the following datasets locally:
+
+- building_damage_assessment.csv
+- building_structure.csv
